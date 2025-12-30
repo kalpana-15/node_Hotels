@@ -1,0 +1,3 @@
+//files to be ignotred by git
+#import node_modules directory
+node_modules/
